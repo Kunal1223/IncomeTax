@@ -1,0 +1,57 @@
+.service-box{
+    align-items: center;
+    text-align: center;
+    margin: 0px 20%;
+}
+
+.service-gst{
+    color: grey;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 40px;
+}
+
+.service-history{
+    color: rgb(23, 102, 154);
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.service-t{
+    color: rgb(64, 64, 64);
+    font-weight: 500;
+}
+
+.service-text{
+    color: grey;
+    line-height: 1.7;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 80px;
+}
+
+.service-text1{
+    color: grey;
+    line-height: 1.7;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.service-text2{
+    color: rgb(32, 32, 32);
+    line-height: 1.7;
+    font-size: 23px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.service-text3{
+    color: grey;
+    line-height: 1.7;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}

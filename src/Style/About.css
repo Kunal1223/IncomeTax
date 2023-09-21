@@ -1,0 +1,30 @@
+.contanier{
+    display: flex;
+    margin:5%  6% ;
+}
+
+.aboutimg{
+    width: 500px;
+}
+
+.about-left{
+    align-items: center;
+    text-align: center;
+    margin-right: 8%;
+}
+
+.heading{
+    font-size: 34px;
+    color: rgb(23, 102, 154);
+    font-weight: 300;
+}
+
+.about-text{
+    margin-top: 3% ;
+    color: rgb(86, 84, 84);
+    font-size: 13px;
+    row-gap: 40px;
+    line-height: 1.9;
+    word-spacing: 1.5px;
+    
+}

@@ -1,0 +1,33 @@
+.nav{
+    display: flex;
+    align-items: center;
+    margin:.7% 5%;
+}
+
+.links{
+    display: flex ;
+    margin-left: 7%;
+    font-size: 13px;
+
+}
+
+.link{
+    text-decoration: none;
+    margin-left: 22px;
+    color: rgb(120, 120, 120);  
+    font-weight: 600;          
+}
+
+.name{
+    font-size: 20px;
+    font-weight: 300;
+    margin-left: 2%;
+}
+
+.first{
+    color: green;  
+}
+
+.second{
+    color: rgb(33, 9, 128);
+}
